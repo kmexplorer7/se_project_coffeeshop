@@ -131,3 +131,7 @@
   display: flex;
   justify-content: space-between;
 }
+
+.recipes__iframe {
+  border: 0;
+}

@@ -21,7 +21,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 - When it was time to submit the codes I had 3 errors and was able to take a screenshot of it. I was so confused and read the first line and checked my </section> tag and put it at the bottom of the page and submitted the code again and it went through.
 
-![Error in Sprint 3](./IMAGES%20copy/DEMO/Errors.png)
+![Error in Sprint 3](./images/readme.img/DEMO/Errors.png)
 
 ## Experience on working on Sprint 2
 
